@@ -15,6 +15,7 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 Developed By:Bhuvaneshwaran H
+
 Register no:21223240018
 ```
 import numpy as np
