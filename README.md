@@ -14,9 +14,9 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-Developed By:Bhuvaneshwaran H
-
-Register no:21223240018
+#python program to find a solution to a system of linear equations.
+#Developed By:Bhuvaneshwaran H
+#Register no:21223240018
 ```
 import numpy as np
 a=np.array([[1,3],[2,5]])
